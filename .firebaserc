@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-toe-pwa-sergiuwaxmann": {
+      "hosting": {
+        "tic-tac-toe-pwa": [
+          "tic-tac-toe-pwa-sergiuwaxmann"
+        ]
+      }
+    }
+  }
+}
